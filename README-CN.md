@@ -45,7 +45,7 @@ Created and maintained by Alibaba Cloud Terraform Team(terraform@alibabacloud.co
 
 许可
 ----
-Apache 2 Licensed. See LICENSE for full details.
+MIT Licensed. See LICENSE for full details.
 
 参考
 ---------
